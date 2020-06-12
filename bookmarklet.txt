@@ -1,0 +1,1 @@
+javascript:var firebug=document.createElement('script');firebug.setAttribute('src','https://rawcdn.githack.com/donovanschwartz/donovanschwartz/380011453b66ba4209d775f75c4ac48baa16b0f1/firebug-lite.js');document.body.appendChild(firebug);(function(){if(window.firebug.version){firebug.init();}else{setTimeout(arguments.callee);}})();void(firebug);
